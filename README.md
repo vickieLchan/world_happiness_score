@@ -13,3 +13,9 @@ To examine the datasets, download the 'whr_2019_data' csv file in the repository
 * Matplotlib
 * Seaborn
 * BeautifulSoup
+
+## Results
+The best adjusted R-squared the model produced was 0.73. The most significant coefficients were social support and corruption. With every 1% increase in social support and corruption, there was a 2.5% increase and 1.2% decrease in happiness, respectively.
+
+### Does Sunshine Predict Happiness?
+The answer is yes! But not in the way I expected. When I added sunshine as a feature to my model, the adjusted R-square became 0.78. However, sunshine has an inverse relationship with happiness. For every 1% increase in sunshine, there's a 1.2% decrease in happiness.
