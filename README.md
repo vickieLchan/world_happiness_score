@@ -7,5 +7,9 @@ This project aims to see if a country's happiness score can be predicted by cert
 To examine the datasets, download the 'whr_2019_data' csv file in the repository. 
 
 ## Packages Used
-*Pandas
-*Numpy
+* Pandas
+* Numpy
+* Sklearn
+* Matplotlib
+* Seaborn
+* BeautifulSoup
